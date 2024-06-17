@@ -1,9 +1,9 @@
 header {
-  background-image: linear-gradient(45deg,green, blue, purple);
+  background-image: linear-gradient(45deg,rgb(0, 115, 128), blue, purple);
 }
 
 h1, h2 {
-  color: rgb(130, 51, 27);
+  color: rgb(190, 236, 238);
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
 a {
