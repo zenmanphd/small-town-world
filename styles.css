@@ -1,10 +1,13 @@
+header {
+  background-image: url(words.jpg);
+}
 
 h1, h2 {
-  color: rgb(167, 53, 19);
+  color: rgb(130, 51, 27);
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
 a {
-  color: rgb(202, 81, 81);
+  color: rgb(130, 51, 27);
 }
 .container {
   position: relative;
