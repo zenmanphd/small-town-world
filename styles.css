@@ -9,6 +9,9 @@ h1, h2 {
 a {
   color: rgb(190, 236, 238);
 }
+a:hover {
+  color: rgb(250, 194, 241);
+}
 .container {
   position: relative;
   width: 100%;
