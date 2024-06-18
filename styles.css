@@ -12,7 +12,8 @@ a:hover {
 body {
   background-image: url(courtyard.jpg), url(words.jpg);
   background-attachment: fixed;
-  
+  opacity: 1, 0.5;
+
 }
 
 
