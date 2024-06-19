@@ -11,9 +11,8 @@ a:hover {
 }
 body {
   background-image: url(courtyard.jpg), url(words.jpg);
-  background-size: cover;
+  background-size: contain;
   background-position: fixed;
-  opacity: 0.5, 1.0;
 }
 
 
