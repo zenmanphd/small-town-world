@@ -10,9 +10,8 @@ a:hover {
   color: rgb(250, 194, 241);
 }
 body {
-  background-image: url(courtyard.jpg), url(words.jpg);
-  background-size: contain;
-  background-position: fixed;
+  background-image: url(courtyard.jpg) no-repeat center fixed, url(words.jpg) no-repeat center fixed;
+  background-size: cover;
 }
 
 
